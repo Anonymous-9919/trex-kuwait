@@ -622,6 +622,7 @@ img { max-width: 100%; display: block; }
   .cta-actions { flex-direction: column; }
   .cta-actions .btn { width: 100%; justify-content: center; }
   .page-hero { min-height: 40vh; padding: 100px 0 80px; }
+  .page-hero-content { padding: 0 16px; }
   .page-hero-content p { margin-bottom: 32px; }
   .page-hero-actions { flex-direction: column; gap: 16px; }
   .page-hero-actions .btn { width: 100%; justify-content: center; padding: 18px 24px; }
@@ -635,6 +636,7 @@ img { max-width: 100%; display: block; }
 
 @media (max-width: 480px) {
   .page-hero { min-height: 35vh; padding: 80px 0 60px; }
+  .page-hero-content { padding: 0 20px; }
   .page-hero-content h1 { font-size: 24px; }
   .section-header h2 { font-size: 22px; }
   .page-hero-content p { font-size: 14px; margin-bottom: 32px; }
