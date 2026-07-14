@@ -93,7 +93,7 @@ img { max-width: 100%; display: block; }
 .btn-outline:hover {
   border-color: var(--primary);
   color: var(--primary);
-  background: rgba(200, 164, 92, 0.05);
+  background: rgba(7, 104, 209, 0.05);
 }
 
 .btn-whatsapp {
@@ -118,7 +118,7 @@ img { max-width: 100%; display: block; }
 
 .section-badge {
   display: inline-block;
-  background: linear-gradient(135deg, rgba(200, 164, 92, 0.12), rgba(200, 164, 92, 0.05));
+  background: linear-gradient(135deg, rgba(7, 104, 209, 0.12), rgba(7, 104, 209, 0.05));
   color: var(--primary-light);
   padding: 8px 24px;
   border-radius: 50px;
@@ -127,7 +127,7 @@ img { max-width: 100%; display: block; }
   letter-spacing: 3px;
   margin-bottom: 20px;
   text-transform: uppercase;
-  border: 1px solid rgba(200, 164, 92, 0.15);
+  border: 1px solid rgba(7, 104, 209, 0.15);
 }
 
 .section-header h2 {
@@ -177,7 +177,7 @@ img { max-width: 100%; display: block; }
   inset: 0;
   background:
     linear-gradient(135deg, rgba(0,0,0,0.85) 0%, rgba(0,0,0,0.4) 50%, rgba(0,0,0,0.7) 100%),
-    radial-gradient(ellipse at 30% 50%, rgba(200, 164, 92, 0.08) 0%, transparent 60%);
+    radial-gradient(ellipse at 30% 50%, rgba(7, 104, 209, 0.08) 0%, transparent 60%);
   z-index: 1;
 }
 
@@ -369,15 +369,15 @@ img { max-width: 100%; display: block; }
 }
 
 .process-step:hover {
-  border-color: rgba(200, 164, 92, 0.15);
+  border-color: rgba(7, 104, 209, 0.15);
   transform: translateY(-4px);
 }
 
 .process-step .step-number {
   width: 56px;
   height: 56px;
-  background: linear-gradient(135deg, rgba(200, 164, 92, 0.15), rgba(200, 164, 92, 0.05));
-  border: 1px solid rgba(200, 164, 92, 0.15);
+  background: linear-gradient(135deg, rgba(7, 104, 209, 0.15), rgba(7, 104, 209, 0.05));
+  border: 1px solid rgba(7, 104, 209, 0.15);
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -427,7 +427,7 @@ img { max-width: 100%; display: block; }
 }
 
 .faq-item:hover {
-  border-color: rgba(200, 164, 92, 0.1);
+  border-color: rgba(7, 104, 209, 0.1);
 }
 
 .faq-question {
@@ -552,15 +552,15 @@ img { max-width: 100%; display: block; }
 }
 
 .related-card:hover {
-  border-color: rgba(200, 164, 92, 0.15);
+  border-color: rgba(7, 104, 209, 0.15);
   transform: translateY(-4px);
 }
 
 .related-card .service-icon {
   width: 56px;
   height: 56px;
-  background: linear-gradient(135deg, rgba(200, 164, 92, 0.15), rgba(200, 164, 92, 0.05));
-  border: 1px solid rgba(200, 164, 92, 0.15);
+  background: linear-gradient(135deg, rgba(7, 104, 209, 0.15), rgba(7, 104, 209, 0.05));
+  border: 1px solid rgba(7, 104, 209, 0.15);
   border-radius: 12px;
   display: flex;
   align-items: center;

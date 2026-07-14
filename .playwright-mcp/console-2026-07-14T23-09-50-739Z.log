@@ -1,0 +1,13 @@
+[    1587ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:3000/favicon.ico:0
+[    5825ms] TypeError: Cannot read properties of undefined (reading 'classList')
+    at showTestimonial (http://localhost:3000/app.js:79:25)
+    at http://localhost:3000/app.js:90:5
+[   10829ms] TypeError: Cannot read properties of undefined (reading 'classList')
+    at showTestimonial (http://localhost:3000/app.js:79:25)
+    at http://localhost:3000/app.js:90:5
+[   15822ms] TypeError: Cannot read properties of undefined (reading 'classList')
+    at showTestimonial (http://localhost:3000/app.js:79:25)
+    at http://localhost:3000/app.js:90:5
+[   20823ms] TypeError: Cannot read properties of undefined (reading 'classList')
+    at showTestimonial (http://localhost:3000/app.js:79:25)
+    at http://localhost:3000/app.js:90:5
